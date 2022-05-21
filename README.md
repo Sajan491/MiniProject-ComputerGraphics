@@ -1,2 +1,2 @@
 # ComputerGraphics-MiniProject
-3D Earth Rotation
+A mini project of computer graphics using PyOpenGL.
